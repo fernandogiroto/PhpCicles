@@ -1,6 +1,8 @@
 # PHP EXERCÍCIOS - CICLOS
 Exercícios básicos de ciclos em php. Retirei no total de 27 exercícios da internet sobre os ciclos (for, foreach, do e while) e resolvi todos eles da melhor maneira que encontrei. Sendo assim poderá ser que a resolução não seja a melhor deixando logo lhe encarrego da missão de contribuir com uma melhor resolução do problema. 
 
+![picture](https://fernandoportugal.com/img/php.png)
+
 ## Lista de Exercícios
 
 Todos os exercícios foram usados usando o [fgetsSTDIN](https://www.geeksforgeeks.org/fgets-gets-c-language/), então para testa-los terá de usar o terminal do programa que estiver usando. Basta abrir o terminal e abrir o arquivo que está editando.
