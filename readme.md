@@ -1,5 +1,5 @@
 # PHP EXERCÍCIOS - CICLOS
-Exercícios básicos de ciclos em php. Retirei no total de 27 exercícios da internet sobre os ciclos (for, foreach, do e while) e resolvi todos eles da melhor maneira que encontrei. Sendo assim poderá ser que a resolução não seja a melhor deixando logo lhe encarrego da missão de contribuir com uma melhor resolução do problema. 
+Exercícios básicos de ciclos em php. Retirei no total de 27 exercícios da internet sobre os ciclos (for, foreach, do e while) e resolvi todos eles da melhor maneira que encontrei. Sendo assim poderá ser que a resolução não seja a melhor, deixando você encarregado da missão de contribuir com uma melhor resolução do problema. #osdevsagradecem
 
 ![picture](https://fernandoportugal.com/img/php.png)
 
